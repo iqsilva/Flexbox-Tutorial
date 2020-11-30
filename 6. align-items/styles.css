@@ -12,7 +12,7 @@ body {
     /* flex-flow: row nowrap; */
     /* justify-content: flex-start; */
     /* justify-content: flex-start | flex-end | center | space-between | space-around | space-evenly;     */
-    align-items: stretch;
+    align-items: baseline;
     /* align-items: stretch | flex-start | flex-end | center | baseline */
 }
 .flex-item {

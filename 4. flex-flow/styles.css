@@ -9,7 +9,8 @@ body {
     /* flex-direction: row | row-reverse | column | column-reverse  */
     /* flex-wrap: wrap; */
     /* flex-wrap: nowrap | wrap | wrap-reverse */
-    flex-flow: row nowrap
+    flex-flow: column-reverse wrap-reverse;
+    height: 400px;
 }
 .flex-item {
     color: white;

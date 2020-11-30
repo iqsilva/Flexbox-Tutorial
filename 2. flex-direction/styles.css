@@ -4,7 +4,7 @@ body {
 .container {
     border: 6px solid black;
     display: flex;
-    flex-direction: row; 
+    flex-direction: column-reverse; 
     /* flex-direction: row | row-reverse | column | column-reverse  */
 }
 .flex-item {

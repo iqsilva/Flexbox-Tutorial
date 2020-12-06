@@ -4,7 +4,7 @@ body {
 .container {
     border: 6px solid black;
     display: flex;
-    height: 500px;
+    height: 400px;
     align-items: flex-end;
 }
 .flex-item {
